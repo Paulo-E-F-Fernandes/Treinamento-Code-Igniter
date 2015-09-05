@@ -13,7 +13,9 @@ através do histórico do Git.
 
 Estou utilizando o treinamento da Alura (https://www.alura.com.br/course/codeigniter) como base para fazer esta aplicação de teste e consulta.
 
-**README DO CODE IGNITER**
+
+
+** ------- README DO CODE IGNITER ------- **
 
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
