@@ -1,0 +1,14 @@
+Treinamento de Code Igniter.
+
+Projeto criado para servir de treinamento e consultas futuras para o desenvolvimento de aplicações em Code Igniter.
+
+Ao todo seram feitos 3 commits.
+1o. Para a adição deste arquivo (README) e do .zip do Code Igniter.
+2o. Para a adição do framework Code Igniter limpo, sem nenhuma informação da
+    aplicação que será criada.
+3o. Para a adição da aplicação completa após o fim do treinamento.
+
+Estou fazendo desta forma para saber quais arquivos foram alterados ou criados
+através do histórico do Git.
+
+Estou utilizando o treinamento da Alura (https://www.alura.com.br/course/codeigniter) como base para fazer esta aplicação de teste e consulta.
