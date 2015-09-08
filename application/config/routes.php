@@ -38,9 +38,17 @@
 |
 */
 
-$route['default_controller'] = "welcome";
+$route['default_controller'] = "produtos";
 $route['404_override'] = '';
-
+/* ******AULA 11 (https://www.alura.com.br/course/codeigniter-avancado/section/2)****** */
+$route['produtos/(:num)'] = 'produtos/mostra/$1';
+/* 
+ * Exemplo: Se tiver dois parâmetros será desta forma
+ * $route['produtos/(:num)/(:num)'] = 'produtos/mostra/$1/$2';
+ * (:num) = somente número
+ * (:any) = qualquer coisa
+ * Pode ser utilizado expressões regulares, ver documentação do Code Igniter.
+ */
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
